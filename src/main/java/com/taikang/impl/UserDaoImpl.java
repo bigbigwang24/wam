@@ -12,5 +12,8 @@ public class UserDaoImpl implements UserDao {
 
     public void query() {
         System.out.println("查询数据");
+
+
+
     }
 }
